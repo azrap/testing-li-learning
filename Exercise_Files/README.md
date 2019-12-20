@@ -25,3 +25,4 @@ Notes:
 - add a reserveration, use incorrect format email address
 - navigate to http://localhost:3000/admin || name/pw: admin
 - see if Read.Me updates try it
+- need to update it again
