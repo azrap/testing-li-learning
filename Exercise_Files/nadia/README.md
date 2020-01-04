@@ -31,6 +31,11 @@ This project uses https://www.npmjs.com/package/debug for development logging. T
 npm run debug
 ```
 
+### testing
+
+This project uses Mocha and Chai for testing.
+Visit http://mochajs.org and http://chaijs.com for details
+
 ## FAQ
 
 - Q: Why didn't you store the time submitted?
